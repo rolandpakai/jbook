@@ -1,7 +1,13 @@
 {
   "name": "@jsnote-rolandpakai/local-api",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project",
+  "homepage": "https://github.com/rolandpakai/jbook#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolandpakai/jbook",
+    "directory": "packages/local-api"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -15,7 +21,7 @@
     "prepublishOnly": "tsc"
   },
   "keywords": [],
-  "author": "",
+  "author": "Roland Pakai",
   "license": "ISC",
   "devDependencies": {
     "@types/cors": "^2.8.13",

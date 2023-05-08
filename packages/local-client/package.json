@@ -1,6 +1,13 @@
 {
   "name": "@jsnote-rolandpakai/local-client",
   "version": "1.0.0",
+  "description": "https://www.udemy.com/course/react-and-typescript-build-a-portfolio-project",
+  "homepage": "https://github.com/rolandpakai/jbook#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rolandpakai/jbook",
+    "directory": "packages/local-client"
+  },
   "publishConfig": {
     "access": "public"
   },
@@ -67,9 +74,8 @@
       "last 1 safari version"
     ]
   },
-  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "local-api.js",
   "keywords": [],
-  "author": "",
+  "author": "Roland Pakai",
   "license": "ISC"
 }
